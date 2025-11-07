@@ -1,0 +1,18 @@
+.botonCentroAzul {
+  background-color: #007bff; 
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.botonCentrorojo {
+  background-color: #ff0000; 
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
